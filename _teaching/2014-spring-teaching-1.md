@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant - Economic History"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad de San Andres, Economics Department"
+date: 2022-01-01 (Autumn semester)
+location: "Buenos Aires, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Student's first encounter with reading papers, crucial economic concepts and programming tools. My role was giving lectures on papers that used different methods or concepts and try to have students understand the reasoning behind what we do. I also had to introduce them to Excel, R and QGIS.
 
 Heading 1
 ======

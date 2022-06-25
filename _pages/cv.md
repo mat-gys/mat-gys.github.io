@@ -14,23 +14,21 @@ Education
 * B.S. in Universidad de San Andres, 2021
 * M.S. in Universidad de San Andres, 2022 (expected)
 
+
 Work experience
 ======
 * March 2020 -  February 2022: Research Assistant
   * Universidad de San Andres
   * Duties included: Linear programming in R
   * Supervisor: Tommy Murphy
-
-* March 2022 - July 2022: Teaching Assistant
-  * Universidad de San Andres
-  * Topic: Economic History
-  * Supervisor: Tommy Murphy
+ 
   
 Skills
 ======
 * Python
 * R
 * Stata
+
   
 Service and leadership
 ======

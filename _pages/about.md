@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Economics Master's Student at [Universidad de San Andres](www.udesa.edu.ar). I'm interested in Machine Learning and Econometrics.
+I'm an Economics Master's Student at [Universidad de San Andres](https://udesa.edu.ar). I'm interested in Machine Learning and Econometrics.

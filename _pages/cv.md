@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* October 2023 -  July 2024: Data Analyst
+* October 2023 -  July 2025: Data Analyst
   * Move37
   * Building predictive models
 * February 2023 -  February 2024: Research Assistant

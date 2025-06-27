@@ -2,7 +2,7 @@
 title: "Gamer Theory Lecturer"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-25-Game-Theory-UdeSA
+permalink: /teaching/Game-Theory-UdeSA
 venue: "Universidad de San Andrés, Department of Economics"
 date: 2024-08-01
 location: "Victoria, Buenos Aires, Argentina"

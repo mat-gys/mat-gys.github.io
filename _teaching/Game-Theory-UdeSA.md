@@ -9,4 +9,5 @@ location: "Victoria, Buenos Aires, Argentina"
 ---
 
 **Term**: Spring 2024-Autumn 2025
+
 This course introduces students from different majors to game theory.

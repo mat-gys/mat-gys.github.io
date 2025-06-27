@@ -26,15 +26,15 @@ Work experience
     
 * September 2022-October 2023: Research Assistant
   * EBRD
-  * Supervisor: Cevat Giray Aksoy
+  * Supervisor: Professor Cevat Giray Aksoy
     
 * July 2022-October 2024: Research Assistant
   * Universidad de San Andrés
-  * Supervisor: Walter Sosa Escudero
+  * Supervisor: Professor Walter Sosa Escudero
     
 * March 2020-February 2022: Research Assistant
   * Universidad de San Andrés
-  * Supervisor: Tommy Murphy
+  * Supervisor: Professor Tommy Murphy
 
 Publications
 ======

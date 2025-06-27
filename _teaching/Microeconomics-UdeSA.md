@@ -1,8 +1,8 @@
 ---
-title: "Microeconomics teaching assistant"
+title: "Microeconomics Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-Microeconomics-UdeSA
+permalink: /teaching/Microeconomics-UdeSA
 venue: "Universidad de San Andrés, Department of Economics"
 date: 2025-03-01
 location: "Victoria, Buenos Aires, Argentina"

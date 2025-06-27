@@ -9,4 +9,5 @@ location: "Victoria, Buenos Aires, Argentina"
 ---
 
 **Term**: Autumn 2022 & Spring 2024
+
 This course introduces economics students to the field of economic history. This includes an introduction to econometrics, using Excel, R, QGIS, and more.

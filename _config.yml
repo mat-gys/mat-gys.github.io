@@ -22,7 +22,7 @@ repository               : "mat-gys/mat-gys.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Matias Gomez Seeber"
   pronouns         : # example: "she/her"  
   bio              : "I am an upcoming PhD student at University of British Columbia. I have varied interests, but I am currently looking toward behavioral economics, political economy and applied microeconomics."

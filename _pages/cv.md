@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Economics, Universidad de San Andrés, 2022
+* B.S. in Economics, Universidad de San Andrés, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023-June 2025: Data Analyst
+  * Move37
+  * Duties included: Building predictive models for horse racing.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* February 2023-February 2024: Research Assistant
+  * Harvard Business School
+  * Supervisor: Professor Alberto Cavallo
+    
+* September 2022-October 2023: Research Assistant
+  * EBRD
+  * Supervisor: Cevat Giray Aksoy
+    
+* July 2022-October 2024: Research Assistant
+  * Universidad de San Andrés
+  * Supervisor: Walter Sosa Escudero
+    
+* March 2020-February 2022: Research Assistant
+  * Universidad de San Andrés
+  * Supervisor: Tommy Murphy
 
 Publications
 ======

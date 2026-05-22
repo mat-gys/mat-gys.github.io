@@ -1,5 +1,5 @@
 ---
-title: "Gamer Theory Lecturer"
+title: "Game Theory Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Game-Theory-UdeSA
